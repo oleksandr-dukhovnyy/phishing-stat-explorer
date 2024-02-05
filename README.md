@@ -5,6 +5,8 @@ This application facilitates searching the Phishstats phishing incidents databas
 You can input various details, such as the IP or URL of a resource, to retrieve relevant information. For instance, the data includes details like the country, region, city, latitude, longitude, ASN (Autonomous System Number), ISP (Internet Service Provider), and more associated with the specified resource.<br />
 Explore and analyze phishing incidents with ease using this application.
 
+[Live](https://oleksandr-dukhovnyy.github.io/phishing-stat-explorer/)
+
 ## Project Setup
 
 ```sh
